@@ -6,3 +6,5 @@
 ayudaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 corriendo
 taking just hi
+combinacion agregando un nuevo comentario de la combinacion
+arreglando comentario para el primer commit
